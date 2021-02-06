@@ -1,4 +1,4 @@
-name: OpenWrt-CI
+name:N1_OpenWrt-CI
 
 on:
   schedule:
